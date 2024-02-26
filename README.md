@@ -33,7 +33,7 @@ Set node positions for the graph.
 ### STEP 12:
 Set options for the graph appearance.
 ### STEP 13:
-Generate the graph using networkX.
+Generate the graph using networkx.
 ### STEP 14:
 Update margins and display the graph using matplotlib.pyplot.
 
@@ -122,6 +122,8 @@ plt.show()
 ![op1](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/efbba958-d148-49a9-9de2-fcb3e3e18384)
 ![op2](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/53f4dad6-c5bc-4f59-88de-4ee411fd9936)
 ![op3](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/9afea35e-82ff-49c4-b165-17328ecbedac)
+
+## GRAPH:
 ![op4](https://github.com/PAARKAVYB/Ex1-AAI/assets/93509383/d75845b2-c7e5-493b-b4d2-bee7c4ee99fe)
 
 ## RESULT:
